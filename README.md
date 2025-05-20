@@ -55,8 +55,6 @@ Visualization confirms how scaling brings features to a comparable scale, aiding
 📂 Files in This Repository
 Social_Network_Ads.csv – Dataset from Kaggle
 
-eda_visualization.ipynb – EDA & visualization notebook
-
-logistic_regression_comparison.ipynb – Model training and evaluation
+Standardization.ipynb – EDA, Model training, evaluation & visualization notebook
 
 README.md – Project overview (this file)
